@@ -7,7 +7,7 @@
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-           <Image Source="manuelito_castillo.jpg"  
+           <Image Source="manuelito.jpg"  
        HeightRequest="185"
        Aspect="AspectFit" />
 
