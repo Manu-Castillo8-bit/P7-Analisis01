@@ -7,11 +7,9 @@
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-            <Image
-                Source="https://drive.google.com/file/d/1udM3n2ne-42ijTOperKVL7-SyMfF_XgP/view?usp=sharing"
-                HeightRequest="185"
-                Aspect="AspectFit"
-                SemanticProperties.Description="Manuelito Castillo" />
+           <Image Source="manuelito_castillo.jpg"  
+       HeightRequest="185"
+       Aspect="AspectFit" />
 
             <Label
                 Text="NOMBRE: Mi nombre es Manuel Ernesto Castillo Guerra"
